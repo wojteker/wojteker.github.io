@@ -1,0 +1,2 @@
+cd /home/wojciech/Dokumenty/wojteker.pl/
+browser-sync start --server --files "style/*.css" "*.html" "script/*.js"
